@@ -7,6 +7,10 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+.mastu{
+    font-size:4px;
+}
+
 .tmg :hover{
   animation: pulse;
 }
